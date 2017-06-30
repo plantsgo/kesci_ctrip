@@ -1,0 +1,4 @@
+python ctrip_test_all_data_v29_lgb_feature.py
+python ctrip_test_all_data_v31_lgb_feature.py
+python ctrip_test_all_data_v42.py
+python ctrip_test_all_data_v43.py

@@ -1,0 +1,14 @@
+运行环境：
+Win10  16G
+
+python环境：
+python2.7
+
+安装包：
+pandas
+numpy
+lightgbm
+
+运行步骤：
+1.将原始数据放入data中。
+2.stage_1,stage_2,stage_3依次执行。
